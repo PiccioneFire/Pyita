@@ -9,4 +9,4 @@ Scarica il file .exe dalla relaese e avvialo, scrivi il codice dentro al text ed
 # Docs
 https://blogpcdevelopers.altervista.org/pyitadocs/index.html
 # Discord 
-https://discord.gg/3TsCXY6rF3
+https://discord.gg/HYrFN2e4TG
