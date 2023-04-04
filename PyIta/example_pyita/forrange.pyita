@@ -1,0 +1,6 @@
+per i in raggio(0, 10): 
+	se i == 5: 
+		ferma 
+	oppure: 
+		stampa("numero:", i) 
+stampa("finito!")
